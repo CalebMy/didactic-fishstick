@@ -21,7 +21,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 ## Finish
 
 _Congratulations friend, you've completed this course!_
-
+https://calebmy.github.io/didactic-fishstick/
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
 Your blog is now live and has been deployed!
